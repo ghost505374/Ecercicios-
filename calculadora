@@ -1,0 +1,9 @@
+def soma(a, b):
+    return a + b
+
+def subtrai(a, b):
+    return a - b
+
+# Novas funções a serem adicionadas
+def multiplica(a, b):
+    return a * b
